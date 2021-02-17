@@ -4,7 +4,7 @@ title: Menu
 metaDescription: Menu
 section: menu
 date: 2018-01-01
-permalink: /contact/index.html
+permalink: /menu/index.html
 eleventyNavigation:
   key: Menu
   order: 3
