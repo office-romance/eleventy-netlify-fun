@@ -1,6 +1,6 @@
 :root {
-	--primary: rgb(255, 116, 11);
-	--secondary:  #ffffff;
+	--primary: #444444;
+	--secondary:  #FFffff;
 	--background: #ffffff;
 }
 
@@ -12,8 +12,8 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: 'Karrik', sans-serif;
-	color: rgb(255, 116, 11);
+	font-family: 'Garamond', serif;
+	color: #FF7A5C;
 }
 
 body {
@@ -120,7 +120,7 @@ header nav li a[data-current="current item"] {
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid #FF7A5C;
 	border-bottom: 1px solid var(--secondary);
 }
 
@@ -144,8 +144,9 @@ a[rel="tag"]:visited {
 	background-color: var(--secondary);
 	color: var(--primary);
   border-radius: .25em;
-  text-decoration: none;
+  text-decoration: underline;
 	margin: 0 .5em .5em 0;
+	text-decoration-color: #FF7A5C;
 }
 
 a[rel="tag"]:hover {
@@ -175,12 +176,12 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: 'Karrik', sans-serif;
+	font-family: 'Garamond', serif;
 }
 
 input,
 textarea {
-	border: 1px solid  rgb(255, 116, 11);
+	border: 1px solid  #FF7A5C;
 }
 
 button {
@@ -195,10 +196,13 @@ button {
 		font-size: 1.1rem;
 	}
 }
+
 @font-face {
-	font-family: Karrik;
-	src: url('/static/fonts/Karrik-Regular.woff2') format('woff2'),
-			url('/static/fonts/Karrik-Regular.woff') format('woff');
-}
+	font-family: Garamond;
+	src: url('/static/fonts/EBGaramond12-Regular.0tf') format('otf');
+	font-weight: 500;
+	font-display: swap;
+
+
 
 

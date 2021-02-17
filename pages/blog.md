@@ -1,10 +1,10 @@
 ---
 layout: layouts/blog.njk
-title: Shop
+title: News
 metaDescription: A goods page listing various posts and authors.
 date: 2017-01-01
 permalink: /blog/index.html
 eleventyNavigation:
-  key: Shop
-  order: 2
+  key: News
+  order: 3
 ---

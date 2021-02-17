@@ -9,4 +9,9 @@ eleventyNavigation:
 ---
 # Welcome
 
-This the world of Superpotent. A Zurich based food collective. The project explores local food production, preservation and zero waste cooking and baking. We sell products and there are plans to have pop-ups, catering, and workshops. See above to find out more and also view our goods for sale.
+Vietnamese Food Experience
+24.-29.02.2021
+Café du Bonheur
+
+Jeden Abend ein wechselnder 3-Gänger, optional mit Fleisch oder vegan.
+Als krönender Abschluss wird es am Sonntag einen einzigartigen vietnamesischen Brunch geben.
