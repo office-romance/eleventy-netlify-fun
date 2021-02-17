@@ -8,12 +8,10 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
-  order: 2
+  order: 3
 ---
+## Was ist «Mili’s Supperclub» ?
 
-
-A project born out of a love for cooking, baking, fermenting, brewing, gathering. Food brings it all together. Less of a business per se, I think of it as a way to be a part of the Zurich food scene, and make some products I believe in. I also will use it as a platform to explore local source, seasonal produce, grains, biodynamic and regenerative agriculture, zero waste, and foraging. It has no specific goals, except to be honest and have fun.
-
-
-
-\-Asher
+An meinen Supperclubs serviere ich euch hausgemachte vietnamesische Gerichte.
+Meine Stube wird zur Gaststube umfunktioniert und die Runde ist wild durchmischt. Alle, jedermann und jedefrau, sind willkommen, jedoch ist die Platzzahl limitiert, leider. Es ist eben immer noch meine Stube. 🙂
+Bei einem drei bis vier Gänge Menü erzähle ich euch mehr über das servierte Essen, deren Bedeutung für mich und meine Familie, aber auch für die vietnamesische Gemeinschaft und Diaspora. Wie und warum wir so essen und liebend gern, tausche ich auch mehr Worte mit euch aus über die Bedeutung von Integration, Migration und die Identitätsbildung – und was für eine grosse Rolle Essen dabei spielt und spielen kann.

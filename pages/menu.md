@@ -7,6 +7,6 @@ date: 2018-01-01
 permalink: /menu/index.html
 eleventyNavigation:
   key: Menu
-  order: 3
+  order: 2
 ---
 This is what we have cooking:
