@@ -4,7 +4,7 @@ title: ORDER
 metaDescription: Order food for pick-up
 section: contact
 date: 2018-01-01
-permalink: /contact/index.html
+permalink: /order/index.html
 eleventyNavigation:
   key: Order
   order: 1
