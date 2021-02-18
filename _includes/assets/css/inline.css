@@ -185,6 +185,21 @@ textarea {
 	border: 1px solid  #fa3c00;
 }
 
+input,
+select {
+	border: 1px solid  #fa3c00;
+}
+
+input,
+select,
+button {
+	width: 100%;
+	padding: 1em;
+	margin-bottom: 1em;
+	  font-size: 1rem;
+	  font-family: 'PanamaItalic', serif;
+  }
+
 button {
 	border: 1px solid var(--primary);
 	background-color: var(--primary);
