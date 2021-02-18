@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Menu
+title: MENU
 metaDescription: Menu
 section: menu
 date: 2018-01-01
@@ -9,4 +9,8 @@ eleventyNavigation:
   key: Menu
   order: 2
 ---
-This is what we have cooking:
+
+<picture>
+  <source type="image/jpeg" srcset="/static/img/menu.png 600w, /static/img/menu.png 1200w, /static/img/menu.png 1800w">
+  <img src="/static/img/menu.png" width="1200" height="600" alt="Menu" loading="lazy" decoding="async">
+</picture>

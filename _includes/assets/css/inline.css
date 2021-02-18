@@ -1,5 +1,5 @@
 :root {
-	--primary: #444444;
+	--primary: #FA3C00;
 	--secondary:  #FFffff;
 	--background: #ffffff;
 }
@@ -12,8 +12,8 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: 'Garamond', serif;
-	color: #FF7A5C;
+	font-family: 'PanamaBold', serif;
+	color: #fa3c00;
 }
 
 body {
@@ -36,6 +36,7 @@ code {
 a[href],
 a[href]:visited {
 	color: var(--primary);
+	font-family: 'PanamaItalic', serif;
 }
 
 a[href]:not(:hover) {
@@ -84,7 +85,7 @@ header > em {
 	display: block;
 	font-size: 2em;
 	margin: .67em 0;
-	font-weight: bold;
+	font-weight: normal;
 	font-style: normal;
 }
 
@@ -120,7 +121,7 @@ header nav li a[data-current="current item"] {
 article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #FF7A5C;
+	border-bottom: 1px solid #fa3c00;
 	border-bottom: 1px solid var(--secondary);
 }
 
@@ -146,7 +147,7 @@ a[rel="tag"]:visited {
   border-radius: .25em;
   text-decoration: underline;
 	margin: 0 .5em .5em 0;
-	text-decoration-color: #FF7A5C;
+	text-decoration-color: #fa3c00;
 }
 
 a[rel="tag"]:hover {
@@ -176,12 +177,12 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: 'Garamond', serif;
+	font-family: 'PanamaItalic', serif;
 }
 
 input,
 textarea {
-	border: 1px solid  #FF7A5C;
+	border: 1px solid  #fa3c00;
 }
 
 button {
@@ -198,11 +199,15 @@ button {
 }
 
 @font-face {
-	font-family: Garamond;
-	src: url('/static/fonts/EBGaramond12-Regular.0tf') format('otf');
+	font-family: PanamaBold;
+	src: url('/static/fonts/PanamaMonospaceBold.woff') format('woff');
 	font-weight: 500;
 	font-display: swap;
+}
 
-
-
-
+@font-face {
+	font-family: PanamaItalic;
+	src: url('/static/fonts/PanamaMonospaceItalic.woff') format('woff');
+	font-weight: 400;
+	font-display: swap;
+}

@@ -4,11 +4,21 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const eleventyGoogleFonts = require("eleventy-google-fonts");
-
+const imagesResponsiver = require('eleventy-plugin-images-responsiver');
+const presets = {
+  default: {
+    sizes: '(max-width: 45em) 90vw, 40em',
+  },
+  logo: {
+    sizes: '(max-width: 45em) 18vw, 8em',
+  },
+};
 module.exports = function(eleventyConfig) {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addPlugin(imagesResponsiver, presets);
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using
@@ -77,6 +87,8 @@ module.exports = function(eleventyConfig) {
     }
     return content;
   });
+
+  eleventyConfig.addPlugin(imagesResponsiver);
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");

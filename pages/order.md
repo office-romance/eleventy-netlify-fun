@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Order
+title: ORDER
 metaDescription: Order food for pick-up
 section: contact
 date: 2018-01-01

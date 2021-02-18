@@ -1,16 +1,16 @@
 ---
 layout: layouts/page.njk
-title: About us
+title: ÜBER
 metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.desciption will be used
   instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
-  key: About
+  key: Über
   order: 3
 ---
-## Was ist «Mili’s Supperclub» ?
+Was ist «Mili’s Supperclub» ?
 
 An meinen Supperclubs serviere ich euch hausgemachte vietnamesische Gerichte.
 Meine Stube wird zur Gaststube umfunktioniert und die Runde ist wild durchmischt. Alle, jedermann und jedefrau, sind willkommen, jedoch ist die Platzzahl limitiert, leider. Es ist eben immer noch meine Stube. 🙂
