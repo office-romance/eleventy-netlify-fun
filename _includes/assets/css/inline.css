@@ -21,10 +21,12 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
+	justify-content: center;
 }
 
 main {
 	max-width: 37.5em;
+	justify-content: center;
 }
 
 p,
@@ -46,12 +48,14 @@ a[href]:not(:hover) {
 img {
 	max-width: 100%;
 	height: auto;
+	justify-content: center;
 }
 
 header,
 main,
 footer {
 	padding: 1em;
+	justify-content: center;
 }
 
 main {

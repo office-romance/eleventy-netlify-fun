@@ -18,6 +18,6 @@ Bei einem drei bis vier Gänge Menü erzähle ich euch mehr über das servierte 
 
 
 Find out more at <a href="https://www.milissupperclub.ch">Mili's Supperclub</a>
-Graphic design by <a href="https://www,christianknoepfel.ch">Christian Knöpfel</a>
+Graphic design by <a href="https://www.christianknoepfel.ch">Christian Knöpfel</a>
 Website made by <a href="https://www.romanceoffice.com">Office Romance</a>.
 

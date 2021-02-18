@@ -9,5 +9,5 @@ eleventyNavigation:
   key: Order
   order: 1
 ---
-Order below with your details and what you would like.
-You can pay when you get here! Thank you!
+Please fill out below with your details and what you would like.
+You can pay when you get here, danke!
