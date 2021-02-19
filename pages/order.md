@@ -10,3 +10,7 @@ eleventyNavigation:
   order: 1
 ---
 Bitte füllen Sie das untenstehende Formular aus und definieren Sie Ihr Menu. Bei Abbholung erfolgt die Bezahlung vor Ort.
+
+
+Fleisch CHF 59.00
+Vegan CHF 54.00
