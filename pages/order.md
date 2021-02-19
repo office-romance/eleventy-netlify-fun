@@ -9,4 +9,4 @@ eleventyNavigation:
   key: Bestellen
   order: 1
 ---
-Bitte füllen Sie das untensehende Formular aus und definieren Sie Ihr Menu. Bei Abbholung erfolgt die Bezahlung vor Ort.
+Bitte füllen Sie das untenstehende Formular aus und definieren Sie Ihr Menu. Bei Abbholung erfolgt die Bezahlung vor Ort.

@@ -57,11 +57,11 @@ img {
 
 header,
 main,
-footer {
+footer
+ {
 	padding: 1em;
 	justify-content: center;
 }
-
 main {
 	padding-bottom: 2em;
 }
@@ -100,7 +100,7 @@ header > em {
 
 /* Header Nav */
 header nav ul {
-	padding: 0;
+	padding: 2em 0 0 0;
 	list-style: none;
 	text-align: center;
 }
@@ -156,7 +156,7 @@ a[rel="tag"]:visited {
 	background-color: var(--secondary);
 	color: var(--primary);
   border-radius: .25em;
-  text-decoration: underline;
+  text-decoration: none;
 	margin: 0 .5em .5em 0;
 	text-decoration-color: #fa3c00;
 }

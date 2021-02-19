@@ -14,6 +14,5 @@ My Lien, Gründerin und Initiantin von Mili’s Supperclub, bringt dem Publikum 
 
 
 Find out more at <a style="font-family:PanamaItalic, serif;" href="https://www.milissupperclub.ch">Mili's Supperclub</a>
-Graphic design by <a style="font-family:PanamaItalic, serif;" href="https://www.christianknoepfel.ch">Christian Knöpfel</a>
-Website made by <a style="font-family:PanamaItalic, serif;" href="https://www.romanceoffice.com">Office Romance</a>.
+
 

@@ -10,9 +10,10 @@ eleventyNavigation:
 Vietnamese Food Experience
 24.—29.02.2021
 
+
 Jeden Abend wechselndes 3-Gänger-Menü
 Fleisch oder vegan
-17.30 — 21.00 Uhr
+17.30—21.00 Uhr
 
 Sonntag: Vietnamesischer Brunch
 Fleisch oder vegan
