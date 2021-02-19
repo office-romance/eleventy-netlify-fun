@@ -16,8 +16,7 @@ Salzig und süsse Variationen. Alles hausgemacht.
 Nur zum Abholen bereit, kommt vorbei.
 
 <picture>
-  <source type="image/png" srcset="/static/img/menu_special.png 600w, /static/img/menu_special.png 1200w, /static/img/menu_special.png 1800w">
-  <img src="/static/img/menu_special.png" width="1200" height="200" alt="Menu" loading="lazy" decoding="async">
+  <img src="/static/img/menu_special.png" width="100%" height="100%" alt="Menu" loading="lazy" decoding="async">
 </picture>
 
 Mili’s Supperclub steht für mehr als «nur» Essen — während dem Pop-Up Event gibt’s im Schaufenster des Café du Bonheur ein kleines Showcase mit drei ausgewählten Schweizer Künstlerinnen Vietnamesischer Herkunft zu sehen.
