@@ -11,6 +11,6 @@ eleventyNavigation:
 ---
 
 <picture>
-  <source type="image/jpeg" srcset="/static/img/menu.png 600w, /static/img/menu.png 1200w, /static/img/menu.png 1800w">
-  <img src="/static/img/menu.png" width="1200" height="600" alt="Menu" loading="lazy" decoding="async">
+  <source type="image/png" srcset="/static/img/menu.png 1000w, /static/img/menu.png 1400w, /static/img/menu.png 2000w">
+  <img src="/static/img/menu.png" width="1800" height="900" alt="Menu" loading="lazy" decoding="async">
 </picture>

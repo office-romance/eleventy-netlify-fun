@@ -1,13 +1,12 @@
 ---
 layout: layouts/contact.njk
-title: ORDER
+title: BESTELLEN
 metaDescription: Order food for pick-up
 section: contact
 date: 2018-01-01
-permalink: /order/index.html
+permalink: /bestellen/index.html
 eleventyNavigation:
-  key: Order
+  key: Bestellen
   order: 1
 ---
-Please fill out below with your details and what you would like.
-You can pay when you get here, danke!
+Bitte füllen Sie das untensehende Formular aus und definieren Sie Ihr Menu. Bei Abbholung erfolgt die Bezahlung vor Ort.
