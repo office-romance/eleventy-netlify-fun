@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
 ---
 Vietnamese Food Experience
-24.—29.02.2021
+24.—28.02.2021
 
 
 Jeden Abend wechselndes 3-Gänger-Menü
