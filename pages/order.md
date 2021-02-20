@@ -11,6 +11,10 @@ eleventyNavigation:
 ---
 Bitte füllen Sie das untenstehende Formular aus und definieren Sie Ihr Menu. Bei Abbholung erfolgt die Bezahlung vor Ort.
 
-
+Abholung:
 Fleisch CHF 59.00
 Vegan CHF 54.00
+
+Dabbavelo:
+Fleisch CHF 66.00
+Vegan CHF 61.00
