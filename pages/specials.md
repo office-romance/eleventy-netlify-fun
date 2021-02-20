@@ -23,6 +23,6 @@ Mili’s Supperclub steht für mehr als «nur» Essen — während dem Pop-Up Ev
 
 <a style="font-family:PanamaItalic, serif;" href="http://www.kim-pham.com">Kim Pham</a>
 <a style="font-family:PanamaItalic, serif;" href="https://www.quynhdong.ch">Quynh Dong</a>
-<a style="font-family:PanamaItalic, serif;" href="https://wwww.vylinhnguyen.com">Vy Linh Nguyen</a>.
+<a style="font-family:PanamaItalic, serif;"> Vy Linh Nguyen</a>
 
 Ein Besuch lohnt sich also!

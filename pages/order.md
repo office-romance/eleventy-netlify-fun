@@ -1,20 +1,17 @@
 ---
 layout: layouts/contact.njk
-title: BESTELLEN
+title: Vorbestellen
 metaDescription: Order food for pick-up
 section: contact
 date: 2018-01-01
-permalink: /bestellen/index.html
+permalink: /vorbestellen/index.html
 eleventyNavigation:
-  key: Bestellen
+  key: Vorbestellen
   order: 1
 ---
-Bitte füllen Sie das untenstehende Formular aus und definieren Sie Ihr Menu. Bei Abbholung erfolgt die Bezahlung vor Ort.
+Bitte füllen Sie das untenstehende Formular aus und definieren Sie Ihr Menu. Bei Abholung erfolgt die Bezahlung vor Ort.
 
 Abholung:
-Fleisch CHF 59.00
-Vegan CHF 54.00
-
-Dabbavelo:
-Fleisch CHF 66.00
-Vegan CHF 61.00
+Fleisch CHF 64.00
+Vegan CHF 59.00
+(+7 CHF einmalig)
